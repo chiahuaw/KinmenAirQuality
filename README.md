@@ -8,18 +8,18 @@
 
 以下是跑出來的圖：
 
-![AirQuality-01-year](D:\_MyDocuments\Git\KinmenAirQuality\AirQuality-01-year.png)
+![AirQuality-01-year](AirQuality-01-year.png)
 
-![AirQuality-02-hour](D:\_MyDocuments\Git\KinmenAirQuality\AirQuality-02-hour.png)
+![AirQuality-02-hour](AirQuality-02-hour.png)
 
-![AirQuality-03-month](D:\_MyDocuments\Git\KinmenAirQuality\AirQuality-03-month.png)
+![AirQuality-03-month](AirQuality-03-month.png)
 
-![AirQuality-04-WindDirec](D:\_MyDocuments\Git\KinmenAirQuality\AirQuality-04-WindDirec.png)
+![AirQuality-04-WindDirec](AirQuality-04-WindDirec.png)
 
-![AirQuality-05-dustfall](D:\_MyDocuments\Git\KinmenAirQuality\AirQuality-05-dustfall.png)
+![AirQuality-05-dustfall](AirQuality-05-dustfall.png)
 
-![AirQuality-06-DustfallOnly](D:\_MyDocuments\Git\KinmenAirQuality\AirQuality-06-DustfallOnly.png)
+![AirQuality-06-DustfallOnly](AirQuality-06-DustfallOnly.png)
 
-![AirQuality-06-tspAndDustfall](D:\_MyDocuments\Git\KinmenAirQuality\AirQuality-06-tspAndDustfall.png)
+![AirQuality-06-tspAndDustfall](AirQuality-06-tspAndDustfall.png)
 
-![AirQuality-07-tspAndDustfall_wind](D:\_MyDocuments\Git\KinmenAirQuality\AirQuality-07-tspAndDustfall_wind.png)
+![AirQuality-07-tspAndDustfall_wind](AirQuality-07-tspAndDustfall_wind.png)
